@@ -1,0 +1,22 @@
+{
+    "name": "@web-atoms/es6-module-loader",
+    "version": "1.0.1",
+    "description": "ES6 Module loader for Web Atoms",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 0",
+        "postversion": "git push --follow-tags"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/web-atoms/es6-module-loader.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/web-atoms/es6-module-loader/issues"
+    },
+    "homepage": "https://github.com/web-atoms/es6-module-loader#readme",
+    "devDependencies": {
+    }
+}
